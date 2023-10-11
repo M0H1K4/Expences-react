@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Expences-react/static/css/main.3aaf0256.css",
-    "main.js": "/Expences-react/static/js/main.3540cd75.js",
+    "main.css": "/Expences-react/static/css/main.e35ff0b5.css",
+    "main.js": "/Expences-react/static/js/main.3577859b.js",
     "index.html": "/Expences-react/index.html",
-    "main.3aaf0256.css.map": "/Expences-react/static/css/main.3aaf0256.css.map",
-    "main.3540cd75.js.map": "/Expences-react/static/js/main.3540cd75.js.map"
+    "main.e35ff0b5.css.map": "/Expences-react/static/css/main.e35ff0b5.css.map",
+    "main.3577859b.js.map": "/Expences-react/static/js/main.3577859b.js.map"
   },
   "entrypoints": [
-    "static/css/main.3aaf0256.css",
-    "static/js/main.3540cd75.js"
+    "static/css/main.e35ff0b5.css",
+    "static/js/main.3577859b.js"
   ]
 }
